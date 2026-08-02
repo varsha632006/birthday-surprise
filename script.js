@@ -1,7 +1,7 @@
-let message = `Happy 21st Birthday My Love ❤️🎂
+let message = `Happy 21st Birthday Army ❤️🎂
 
 You are the best gift in my life 💖  
-Thank you for always supporting me and loving me 😘  
+Thank you for always supporting me 😘  
 
 On your special day, I just want to remind you  
 that you mean the world to me 🌍❤️  
@@ -9,7 +9,7 @@ that you mean the world to me 🌍❤️
 May your 21st year be filled with success, happiness  
 and endless love 💕✨  
 
-Once again... Happy Birthday My King 👑💙`;
+Once again... Happy Birthday 💙`;
 
 let i = 0;
 let speed = 40;
