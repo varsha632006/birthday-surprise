@@ -26,5 +26,5 @@ typingEffect();
 
 function showSurprise() {
   document.getElementById("surpriseMsg").innerHTML =
-    "💖 Surpriseee My Love 😘🎉 I Love you unconditionally Pedhoda 💙💙💙💙💙 You are my all time favorite Chocolate Boy  💕✨ and thank you soooooooooooooo much for treating me like princess👸";
+    "💖 Happy birthday to my ultimate bias and bestie! May your special day shine as bright as a BTS stadium concert, filled with endless purple love, joyous mikrokosmos lights, and all the happiness you deserve.";
 }
